@@ -16,7 +16,9 @@ Recursos principais:
 Este projeto é uma oportunidade de aplicar os conceitos aprendidos em Node.js, integração com banco de dados e arquitetura MVC em um contexto prático e relevante, fornecendo uma base sólida para o desenvolvimento de futuras aplicações web.
 
 ## Mostrando o Projeto
+![node1](https://github.com/WesleyNajar/API-REST-Node-JS/assets/106271823/0d930c53-ce75-4275-aa0c-e9d6dc9e54b2)
 
+![node2](https://github.com/WesleyNajar/API-REST-Node-JS/assets/106271823/13ce9db7-bb76-434d-a0a0-8dc34593dfdd)
 
 ## Tecnologias utilizadas
 - Javascript
